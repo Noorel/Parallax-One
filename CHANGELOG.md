@@ -1,5 +1,80 @@
 
 
+### 2.1.0.8 - 18/04/2016
+
+ Changes: 
+
+
+ * Fixed image not showing in Services section
+
+For some reasons, in one of our previous commits we changed the link to image and image to link which was causing this issue.
+ * Merge pull request #370 from HardeepAsrani/development
+
+Fixed image not showing in Services section
+
+
+### 2.1.0.7 - 14/04/2016
+
+ Changes: 
+
+
+ * Our services small css issue
+ * Merge pull request #368 from cristian-ungureanu/development
+
+Development
+
+
+### 2.1.0.6 - 13/04/2016
+
+ Changes: 
+
+
+ * Revert "!!!changes for general plugin"
+
+This reverts commit e008cfceb141af1a928416e93010cfa08921764c.
+ * Fixed WordPress 4.5 scrolling issue
+
+Fixed scrolling issue which was caused after upgrading to WordPress 4.5.
+ * Merge pull request #366 from HardeepAsrani/development
+
+Fixed WordPress 4.5 scrolling issue
+ * Merge pull request #353 from cristian-ungureanu/development
+
+Development
+ * Our services small css issue
+
+
+### 2.1.0.5 - 19/02/2016
+
+ Changes: 
+
+
+ * Fixed #292 Added character sets
+ * #344 latest news titles issue fixed
+
+issue fixed.
+ * Merge pull request #346 from Gouravwp/development
+
+#344 latest news titles issue fixed
+ * #233 - added custom hooks
+ * #345 - start page from top if no title and frontpage
+ * see the icon in dropdown in customizer
+ * fix #347 - woocommerce ratings not displaying properly
+ * fix #343 - fix latest news section when wr megamenu is installed
+ * #339 - added social icons in team section
+ * #329 - make parallax-one seo friendly, only one h1 on page, all images with alt
+ * #296 - js loading slow in menu
+ * #272 - allow ul and li inside box
+ * #218 - add editor style
+ * added google icons
+ * added new google icons
+ * added compatibility with SI CAPTCHA Anti-Spam and change form style
+ * Merge pull request #350 from cristian-ungureanu/development
+
+Development
+ * Update translations for polish
+
+
 ### 2.1.0.4 - 14/01/2016
 
  Changes: 
